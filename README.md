@@ -3,4 +3,4 @@ link = https://www.youtube.com/watch?v=lATafp15HWA&t=2683s&ab_channel=WebDevSimp
 
 learn typescript, react components context hooks Ui library 
 
-![イメージ](http://image/seika.jpg)
+![イメージ](./image/seika.jpg)
